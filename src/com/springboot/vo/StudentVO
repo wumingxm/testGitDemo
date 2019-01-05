@@ -13,6 +13,18 @@ public class StudentVO{
 	
 	private Integer student_age;
 	
+	$ git commit  -m ¡±¡±version4.0¡±
+	private String student_no;
+	
+	private String student_name;
+	
+	private String student_sex;
+	
+	private Integer student_age;
+	
+	$ git commit  -m ¡±¡±version4.0¡±
+
+	
 	public void gestStudentNo(String student_no){
 		this.student_no = student_no;
 	}
